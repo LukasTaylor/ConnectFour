@@ -1,0 +1,6 @@
+﻿  game.cpp
+  main.cpp
+  player.cpp
+c:\users\luuuk\documents\visual_studio_projects\lab7\lab7\player.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab7.vcxproj -> C:\Users\luuuk\Documents\Visual_Studio_Projects\Lab7\Debug\Lab7.exe
